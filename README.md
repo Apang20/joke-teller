@@ -1,4 +1,4 @@
-# Joke-Teller ![](https://user-images.githubusercontent.com/47830532/94299407-3ff73c00-ff2d-11ea-8ca0-e3cca25028a0.gif)
+# 🤖 Joke-Teller 😆
 
 
 
