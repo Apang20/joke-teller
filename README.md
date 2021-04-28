@@ -21,8 +21,8 @@ A text to speech application where a robot will tell you a joke from a joke API
 
 ## User Stories
 A user can do the following: 
-- Browse inspirational quotes
-- Tweet quote(s) in real time from your account directly from the application
+- Select a joke category or topic
+- Request a joke from the robot
 
 
 
