@@ -30,4 +30,4 @@ A user can do the following:
 - [Google Fonts](https://fonts.google.com/)
 - [Robot Gif](https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY) 
 
-![](https://res.cloudinary.com/dh41vh9dx/image/upload/v1596373739/compressed-clipped-giffed-quote-demo.gif)
+![](https://user-images.githubusercontent.com/47830532/94299407-3ff73c00-ff2d-11ea-8ca0-e3cca25028a0.gif)
