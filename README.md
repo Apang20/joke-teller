@@ -7,7 +7,7 @@
 
 
 ## Overview
-- A text to speech application where a robot will tell you a joke from a joke API
+A text to speech application where a robot will tell you a joke from a joke API
 
 
 
