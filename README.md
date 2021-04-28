@@ -1,4 +1,4 @@
-# 🤖 Joke-Teller 😂 🃏
+# 🤖 Joke-Teller 🃏 
 
 
 
