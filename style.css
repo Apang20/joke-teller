@@ -33,7 +33,7 @@ button{
   background: #ff3482;
   border: none;
   border-radius: 5px;
-  box-shadow: 2px 2px 20px 10px rgba(0, 0, 0, 0.3); 
+  box-shadow: 2px 2px 20px 10px rgba(0, 0, 0, 0.5); 
 }
 
 button:hover {
@@ -49,6 +49,14 @@ button:disabled {
   filter: brightness(30%); 
 }
 
+/* .jokeTypes {
+  margin-top: 1rem;
+  transform: scale(0.95);
+}
+
+.jokeTypes button {
+  margin: 5px;
+} */
 
 /* Media Query: Tablet or Smaller */
 @media screen and (max-width: 1000px) {
