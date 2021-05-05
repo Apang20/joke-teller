@@ -34,7 +34,7 @@ body {
 .header-text h1{
     /* font-family:'Montserrat Alternates', sans-serif; */
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 4.5rem;
+    font-size: 5rem;
     font-weight:700;
     text-shadow:0 0.2rem 0.5rem rgba(242, 149, 9, 0.8);
  }
@@ -86,7 +86,7 @@ button {
   .bubble {
     position: relative;
     margin-bottom: 15px;
-    max-width: 360px;
+    max-width: 860px;
     max-height: 290px;
     padding: 7px;
     /* background: #ff3482; */
