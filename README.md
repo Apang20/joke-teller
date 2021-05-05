@@ -2,7 +2,7 @@
 
 
 
-## [View Live!](https://apang20.github.io/joke-teller/) - still in progress
+## [View Live!](https://apang20.github.io/joke-teller/) 
 
 
 
@@ -30,4 +30,5 @@ A user can do the following:
 - [Icons](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Robot Gif](https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY) 
+- [Voice RSS](http://www.voicerss.org/) 
 
