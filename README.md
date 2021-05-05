@@ -21,7 +21,8 @@ A text to speech application where a robot will tell you a joke from a joke API
 
 ## User Stories
 A user can do the following: 
-- Select a joke category or topic
+- Read random generated joke
+- Listen to random generated joke 
 - Request a joke from the robot
 
 
