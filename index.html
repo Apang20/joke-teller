@@ -1,49 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Joke Teller</title>
     <link rel="icon" type="image/png" href="robot.png">
 
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
-    />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&family=Orbitron&display=swap"
+        rel="stylesheet">
+
     <link rel="stylesheet" href="style.css" />
-  </head>
+</head>
 
 <body>
     <div class="container">
-        <!-- <div class="header-text"> -->
-            <!-- <h1>Meet Robot Rosey! </h1> -->
-         <!-- <br><br>
-        </div> -->
-        <!-- <div class="flex-container"> -->
-            <div class="bubble" id="bubble" hidden></div>
-            <button id="button">Tell me a joke</button>
-            <audio id="audio" controls hidden></audio>
+    <div class="header-text">
+        <h1>Meet Rosey the Robot! </h1>
+        <p>Press the Button to Hear Rosey's Favorite Dev Jokes</p>
     </div>
-        <!-- </div> -->
-        <!-- <div class="warning-text">
-            <p align="center"><u>Caution:</u></p>
-            <p align="center"> Rosey's jokes can sometimes be NSFW</p> 
-        </div> -->
- 
-
-      <!-- <div class="jokeTypes">
-       <button id="programming" disabled>Programming</button> 
-     <button id="programming">Programming</button>
-        <button id="nsfw">NSFW</button>  
-        <button id="dark">Dark</button>
-      </div> -->
-
-   
-
-    <!-- Script -->
-    <!-- <script src="dark.js"></script>  -->
+        <div class="flex-container">
+            <div class="bubble" id="bubble" hidden></div>
+            <button id="button"><b>Tell me a joke</b></button>
+            <audio id="audio" controls hidden></audio>
+        </div>
+    </div>
+    
     <script src="script.js"></script>
-  </body>
+</body>
+
 </html>
 
 
