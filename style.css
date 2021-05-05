@@ -61,7 +61,7 @@ button {
     height: 50px;
     /* font-family: "Courier New", Courier, monospace; */
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 20px;
+    font-size: 18px;
     color: white;
     /* background: #ff3482; */
     background: #f78930;
@@ -137,7 +137,7 @@ button {
       background-position: center center;
     }
     button {
-      box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
     }
   
     .bubble {
@@ -160,11 +160,11 @@ button {
   /* Media Query:For mobile size */
   @media screen and (max-width:662px){
    .header-text h1{
-        font-size:3.8rem;
+        font-size:3.5rem;
         line-height:0.8;
      }
      .header-text p{
-        font-size:1.9rem;
+        font-size:1.3rem;
      }
      .container{
         background-position: center;
