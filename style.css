@@ -52,10 +52,10 @@ button {
   
   .bubble {
     position: relative;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     max-width: 360px;
-    max-height: 250px;
-    padding: 5px;
+    max-height: 290px;
+    padding: 7px;
     /* background: #ff3482; */
     background: #f07e21;
     -webkit-border-radius: 10px;
