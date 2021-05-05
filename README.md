@@ -2,7 +2,7 @@
 
 
 
-## [View Live!](https://apang20.github.io/joke-teller/) - still in progress
+## [View Live!](https://apang20.github.io/joke-teller/) 
 
 
 
@@ -21,7 +21,8 @@ A text to speech application where a robot will tell you a joke from a joke API
 
 ## User Stories
 A user can do the following: 
-- Select a joke category or topic
+- Read random generated joke
+- Listen to random generated joke 
 - Request a joke from the robot
 
 
@@ -30,4 +31,7 @@ A user can do the following:
 - [Icons](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Robot Gif](https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY) 
+- [Voice RSS](http://www.voicerss.org/) 
+- [Joke API](https://sv443.net/jokeapi/v2/) 
+
 
