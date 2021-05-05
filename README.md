@@ -30,7 +30,7 @@ A user can do the following:
 ## Resources
 - [Icons](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
-- [Robot Gif](https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY) 
+- [Robot GIF](https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY) 
 - [Voice RSS](http://www.voicerss.org/) 
 - [Joke API](https://sv443.net/jokeapi/v2/) 
 
