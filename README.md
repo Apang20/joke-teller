@@ -8,7 +8,7 @@
 
 ## Overview
 - A text to speech application where a robot will tell you a dev. joke from a joke API
-- <u>Caution<u>: Rosey's jokes can get a little sassy! 
+- <i>Caution<i>: Rosey's jokes can get a little sassy! 
 
 
 
