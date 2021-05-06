@@ -1,7 +1,8 @@
 # 🤖 Joke-Teller Robot
 
 ## [View Live!](https://apang20.github.io/joke-teller/) 
-⚠️Rosey's jokes can sometimes be a little sassy!👀
+⚠️Rosey's jokes can sometimes be a little sassy!🤷🏻‍♀️
+👀
 
 
 
