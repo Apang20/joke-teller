@@ -1,5 +1,5 @@
 # 🤖 Joke-Teller Robot
-
+⚠️Rosey's jokes can get a little sassy!
 
 
 ## [View Live!](https://apang20.github.io/joke-teller/) 
@@ -8,7 +8,7 @@
 
 ## Overview
 A text to speech application where a robot will tell you a dev. joke from a joke API
-⚠️Caution: Rosey's jokes can get a little sassy!
+
 
 
 
