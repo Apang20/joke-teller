@@ -1,4 +1,4 @@
-# 🤖 Meet Rosey, the Joke-Telling Robot!
+# 🤖 Joke-Teller Robot
 
 
 
