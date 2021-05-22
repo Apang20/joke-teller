@@ -6,7 +6,12 @@
 
 
 ## Overview
-A text to speech application where you press a button and a robot will tell you a programming joke from a joke API
+A text to speech application where you press a button and a robot will tell you a programming joke from a joke API. 
+Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with additional customizations:
+- Adding a header
+- A speech bubble to read the jokes (inclusive for hearing impaired) 
+- Custom robot favicon
+- Custom CSS
 
 
 
@@ -14,7 +19,9 @@ A text to speech application where you press a button and a robot will tell you 
 
 ## Technologies 
 - JavaScript  
-- External APIs
+- Joke APIs
+- HTML
+- CSS
 
 
 
