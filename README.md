@@ -22,7 +22,8 @@ JS Web Projects: 20 Projects to Build Your Portfolio, but with additional custom
 ## Technologies 
 - JavaScript  
 - Joke APIs
-- CSS/HTML
+- HTML5
+- CSS3
 
 
 
