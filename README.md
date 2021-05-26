@@ -7,9 +7,10 @@
 
 ## Overview
 A text to speech application where you press a button and a robot will tell you a programming joke from a joke API. 
-Inspired by Udemy 
 
-JS Web Projects: 20 Projects to Build Your Portfolio, but with additional customizations:
+
+
+## Customizations
 - Adding a header
 - A speech bubble to read the jokes (inclusive for hearing impaired) 
 - Custom robot favicon
@@ -44,5 +45,7 @@ A user can do the following:
 - [Robot GIF](https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY) 
 - [Voice RSS](http://www.voicerss.org/) 
 - [Joke API](https://sv443.net/jokeapi/v2/) 
+ - Project Inspired by: [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)
+
 
 
